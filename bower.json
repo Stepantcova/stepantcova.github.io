@@ -1,0 +1,14 @@
+{
+  "name": "Valentina",
+  "description": "",
+  "main": "",
+  "authors": [
+    "Stepantsova Valentina"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "dependencies": {
+    "jquery": "^3.2.1"
+  }
+}

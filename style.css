@@ -487,6 +487,8 @@ nav .woman_menu_link:hover .woman_menu {
   border: 1px solid #ffffff;
   cursor: pointer;
   user-select: none;
+  -moz-user-select: none; /* Firefox */
+  -ms-user-select: none; /* Internet Explorer */
   color: #fff;
   font-size: 13px;
   font-weight: 700;
